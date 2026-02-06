@@ -39,13 +39,13 @@ class WelcomeModal extends Component {
                     </div>
                     <div className="editor-info-name">Wick Editor</div>
                     <div className="editor-info-version">Version {this.props.editorVersion}</div>
-                    <a className="editor-info-link" href="https://www.wickeditor.com/#/terms-and-conditions" target="_blank" rel="noopener noreferrer">Terms and Conditions</a>
+                    <a className="editor-info-link" href="#" target="_blank" rel="noopener noreferrer">Terms and Conditions</a>
                     <br/>
-                    <a className="editor-info-link" href="https://www.wickeditor.com/#/privacy-policy" target="_blank" rel="noopener noreferrer">Privacy Policy</a>
+                    <a className="editor-info-link" href="#" target="_blank" rel="noopener noreferrer">Privacy Policy</a>
                     <br/>
-                    <a className="editor-info-link" href="https://www.wickeditor.com/#/cookie-policy" target="_blank" rel="noopener noreferrer">Cookie Policy</a>
+                    <a className="editor-info-link" href="#" target="_blank" rel="noopener noreferrer">Cookie Policy</a>
                     <br/>
-                    <a className="editor-info-link" href="https://forum.wickeditor.com" target="_blank" rel="noopener noreferrer">Community Forum</a>
+                    <a className="editor-info-link" href="https://forms.gle/LzTbuEQWHv4SEAec6" target="_blank" rel="noopener noreferrer">Community Forum</a>
                     <br/>
                     <div className="editor-info-open-source-notices">
                         <ActionButton

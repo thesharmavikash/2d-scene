@@ -14,13 +14,13 @@ Open Source Licenses and Notices
 
 Wicklets's Logos
     The license grant included with the Software is not for Wicklets’s trademarks, which include the Software logo designs. Wicklets reserves all trademark and copyright rights in and to all Wicklets trademarks. Wicklets’s logos include, for instance, the stylized designs that include "logo" in the file title in the "logos" folder.
-    The names Wicklets, Wick Editor, WickEditor, and related Wicklets logos and Wick Editor logos and/or stylized names are trademarks of Wicklets. You agree not to display or use these trademarks in any manner without Wicklets’s prior, written permission, except as allowed by Wicklets’s Logos and Usage Policy: https://www.wickeditor.com/#/logos.
+    The names Wicklets, Wick Editor, WickEditor, and related Wicklets logos and Wick Editor logos and/or stylized names are trademarks of Wicklets. You agree not to display or use these trademarks in any manner without Wicklets’s prior, written permission, except as allowed by Wicklets’s Logos and Usage Policy: #.
 
 Privacy
-    The Software may collect personal information. If the Software does collect personal information on Wicklets’s behalf, Wicklets will process that information in accordance with the Wicklets Privacy Policy. By using this software, you agree to the terms of the Wicklets Privacy Policy. A copy of the Wicklets Privacy Policy can be found at https://www.wickeditor.com/#/privacy-policy.
+    The Software may collect personal information. If the Software does collect personal information on Wicklets’s behalf, Wicklets will process that information in accordance with the Wicklets Privacy Policy. By using this software, you agree to the terms of the Wicklets Privacy Policy. A copy of the Wicklets Privacy Policy can be found at #.
 
 Cookies
-    The software uses cookies to improve your user experience, and improve our website. These cookies will be used in accordance with the Wicklets Cookie Policy. By using this software, you agree to the terms of the Wicklets Cookie Policy. A copy of the Wicklets Cookie Policy can be found at https://www.wickeditor.com/#/cookie-policy.   
+    The software uses cookies to improve your user experience, and improve our website. These cookies will be used in accordance with the Wicklets Cookie Policy. By using this software, you agree to the terms of the Wicklets Cookie Policy. A copy of the Wicklets Cookie Policy can be found at #.   
 
 Additional Services
     Auto-Update Services

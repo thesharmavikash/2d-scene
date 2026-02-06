@@ -40,7 +40,7 @@ class OpenSourceNotices extends Component {
                     </p>
 
 
-                    <h3>Library: <a href="https://github.com/Wicklets/wick-editor">wick-editor</a>, License: GPL-3.0</h3>
+                    <h3>Library: <a href="#">wick-editor</a>, License: GPL-3.0</h3>
                     <h4>Used in: wick-editor</h4>
                     <p>The wick-editor library is governed by the following license:</p>
                     <p>

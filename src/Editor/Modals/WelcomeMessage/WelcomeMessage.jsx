@@ -34,7 +34,7 @@ var classNames = require('classnames');
 class WelcomeModal extends Component {
   constructor () {
     super();
-    this.forumPost = "https://forum.wickeditor.com/t/help-needed-wick-editor-version-1-18-new-fill-bucket-outliner-tool-mobile-improvements/3314";
+    this.forumPost = "https://docs.google.com/document/d/1kOgftjvsVwC5XY1Dbu9r68iRkK7rytusX1zWFzE-1yA/edit?usp=sharing";
     this.updates = [
       "New Code Editor!",
       "New Hit Test Options",
@@ -64,7 +64,7 @@ class WelcomeModal extends Component {
   renderPatreonSupporters = (className) => {
     return  (
       <div className={classNames("supporter-list-container", className)}>
-        <a className="welcome-modal-highlight" target="_blank" rel="noopener noreferrer" href="https://www.patreon.com/WickEditor">Become a Patreon Supporter!</a>
+        <a className="welcome-modal-highlight" target="_blank" rel="noopener noreferrer" href="#">Become a Patreon Supporter!</a>
         <div className="supporter-list">
           {this.patreonSupporters.join(", ")}
         </div>
@@ -116,7 +116,7 @@ class WelcomeModal extends Component {
               {this.renderUpdates()}
               {this.renderPatreonSupporters("desktop-modal")}
             </div>
-            <div id="welcome-modal-forum-link" className="welcome-modal-item">Please report all bugs on our <a className="welcome-modal-highlight" target="_blank" rel="noopener noreferrer" href="https://forum.wickeditor.com">forum!</a></div>
+            <div id="welcome-modal-forum-link" className="welcome-modal-item">Please report all bugs on our <a className="welcome-modal-highlight" target="_blank" rel="noopener noreferrer" href="https://forms.gle/LzTbuEQWHv4SEAec6">forum!</a></div>
             <div id="welcome-modal-footer">
               <div id="welcome-modal-accept">
                 <ActionButton

@@ -96,7 +96,7 @@ class SupportUs extends Component {
         <p class="support-modal-col-text">for individuals and creators</p>
         <div class="support-modal-progress-bar"><div class="support-modal-patreon-progress" style={{width:this.progressData.patreonProgress/this.progressData.patreonGoal*100+"%"}}></div></div>
         <p class="support-modal-col-text">{"Goal: $" + this.progressData.patreonProgress+" / $" + this.progressData.patreonGoal + " per month"}</p>
-        <button class="support-modal-button patreon-button" onClick={function(){window.open("https://www.patreon.com/WickEditor", "_blank")}}>
+        <button class="support-modal-button patreon-button" onClick={function(){window.open("#", "_blank")}}>
           <img src={patreonLogoWhite} alt="white patreon logo" class="support-modal-button-img"></img>
           <p class="support-modal-button-text">Become a Patron</p>
         </button>
@@ -110,7 +110,7 @@ class SupportUs extends Component {
         <p class="support-modal-col-text">for businesses and developers</p>
         <div class="support-modal-progress-bar"><div class="support-modal-github-progress" style={{width:this.progressData.githubProgress/this.progressData.githubGoal*100+"%"}}></div></div>
         <p class="support-modal-col-text">{"Goal: "+this.progressData.githubProgress+" of "+this.progressData.githubGoal +" sponsors found"}</p>
-        <button class="support-modal-button github-button" onClick={function(){window.open("https://github.com/sponsors/Wicklets", "_blank")}}>
+        <button class="support-modal-button github-button" onClick={function(){window.open("#", "_blank")}}>
           <img src={githubHeart} alt="pink heart" class="support-modal-button-img"></img>
           <p class="support-modal-button-text">Sponsor</p>
         </button>
@@ -122,13 +122,13 @@ class SupportUs extends Component {
       <p id="support-modal-follow-text">Follow us and share your work with <p id="support-modal-hashtag">#MadeWithWickEditor</p>!</p>
   
       <div id="support-modal-social-icons">
-        <button class="support-modal-social-icon" onClick={function(){window.open("https://www.facebook.com/wickeditor/", "_blank")}}>
+        <button class="support-modal-social-icon" onClick={function(){window.open("https://www.facebook.com/thesharmavikash", "_blank")}}>
           <img class="support-modal-social-img" src={facebookIcon} alt="facebook logo"></img>
         </button>
-        <button class="support-modal-social-icon" onClick={function(){window.open("https://www.instagram.com/wickeditor/", "_blank")}}>
+        <button class="support-modal-social-icon" onClick={function(){window.open("https://www.instagram.com/thesharmavikash/", "_blank")}}>
           <img class="support-modal-social-img" src={instagramIcon} alt="instagram logo"></img>
         </button>
-        <button class="support-modal-social-icon" onClick={function(){window.open("https://twitter.com/wickeditor", "_blank")}}>
+        <button class="support-modal-social-icon" onClick={function(){window.open("https://twitter.com", "_blank")}}>
           <img class="support-modal-social-img" src={twitterIcon} alt="twitter logo"></img>
         </button>
       </div>
