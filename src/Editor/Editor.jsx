@@ -1,20 +1,20 @@
 /*
  * Copyright 2020 WICKLETS LLC
  *
- * This file is part of Wick Editor.
+ * This file is part of 2D Scene.
  *
- * Wick Editor is free software: you can redistribute it and/or modify
+ * 2D Scene is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
  * (at your option) any later version.
  *
- * Wick Editor is distributed in the hope that it will be useful,
+ * 2D Scene is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  *
  * You should have received a copy of the GNU General Public License
- * along with Wick Editor.  If not, see <https://www.gnu.org/licenses/>.
+ * along with 2D Scene.  If not, see <https://www.gnu.org/licenses/>.
  */
 
 import React from 'react';
@@ -202,7 +202,7 @@ class Editor extends EditorCore {
   }
 
   UNSAFE_componentWillMount = () => {
-    document.title =  `Wick Editor ${this.editorVersion}`;
+    document.title =  `2D Scene ${this.editorVersion}`;
     // Initialize "live" engine state
     this.project = new window.Wick.Project();
     this.attachErrorHandlers();
@@ -211,7 +211,7 @@ class Editor extends EditorCore {
     // Initialize local storage
     localForage.config({
       name        : 'WickEditor',
-      description : 'Live Data storage of the Wick Editor app.'
+      description : 'Live Data storage of the 2D Scene app.'
     });
 
     this.customHotKeysKey = "wickEditorcustomHotKeys";

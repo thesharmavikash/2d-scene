@@ -201,7 +201,7 @@ WickProject.prototype.getAsJSON = function (callback, format) {
     self.rootObject.encodeStrings();
     self.library.encodeStrings();
 
-    // Add some browser/OS/wick editor version info for debugging other ppl's projects
+    // Add some browser/OS/2D Scene version info for debugging other ppl's projects
     self.metaInfo = getBrowserAndOSInfo();
     self.metaInfo.wickVersion = wickEditor.version;
     self.metaInfo.dateSaved = new Date().toGMTString();

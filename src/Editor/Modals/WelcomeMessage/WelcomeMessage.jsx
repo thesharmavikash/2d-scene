@@ -1,20 +1,20 @@
 /*
  * Copyright 2020 WICKLETS LLC
  *
- * This file is part of Wick Editor.
+ * This file is part of 2D Scene.
  *
- * Wick Editor is free software: you can redistribute it and/or modify
+ * 2D Scene is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
  * (at your option) any later version.
  *
- * Wick Editor is distributed in the hope that it will be useful,
+ * 2D Scene is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  *
  * You should have received a copy of the GNU General Public License
- * along with Wick Editor.  If not, see <https://www.gnu.org/licenses/>.
+ * along with 2D Scene.  If not, see <https://www.gnu.org/licenses/>.
  */
 
 import React, { Component } from 'react';
@@ -81,7 +81,7 @@ class WelcomeModal extends Component {
             <img className="welcome-modal-mobile-image" alt="Night sky with mountains, clouds, a moon and stars" src={nightImageShort}/>
           </div>
           <div className="welcome-modal-mobile-content">
-            <div className="welcome-modal-title small-modal">The Wick Editor</div>
+            <div className="welcome-modal-title small-modal">The 2D Scene</div>
             <div className="welcome-modal-version small-modal"><a className="welcome-modal-highlight" target="_blank" rel="noopener noreferrer" href={this.forumPost}>Version {this.props.editorVersion}</a></div>
             {this.renderUpdates("small-modal")}
             {this.renderPatreonSupporters()}
@@ -109,9 +109,9 @@ class WelcomeModal extends Component {
             <img id="welcome-image" alt="Night sky with mountains, clouds, a moon and stars" src={coolField} />
           </div>
           <div id="welcome-message-container" className="modal-main-container">
-            <div id="welcome-modal-title" className="welcome-modal-item">Welcome To The Wick Editor!</div>
+            <div id="welcome-modal-title" className="welcome-modal-item">Welcome To The 2D Scene!</div>
             <div id="welcome-modal-version" className="welcome-modal-item"><a className="welcome-modal-highlight" target="_blank" rel="noopener noreferrer" href={this.forumPost}>Version {this.props.editorVersion}</a></div>
-            <div id="welcome-modal-subtitle" className="welcome-modal-item">Wick Editor {this.props.editorVersion} includes:</div>
+            <div id="welcome-modal-subtitle" className="welcome-modal-item">2D Scene {this.props.editorVersion} includes:</div>
             <div id="welcome-modal-message" className="welcome-modal-item">
               {this.renderUpdates()}
               {this.renderPatreonSupporters("desktop-modal")}

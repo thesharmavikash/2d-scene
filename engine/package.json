@@ -1,7 +1,7 @@
 {
   "name": "wick-engine",
   "version": "1.0.0",
-  "description": "This is the official implementation of the Wick Editor Core Engine. <what does it do>. It is built to be easily plugged into used by a GUI for creating and editing Wick projects (e.g. the Wick Editor) or a player for embedding and running Wick projects (e.g. the Wick Player).",
+  "description": "This is the official implementation of the 2D Scene Core Engine. <what does it do>. It is built to be easily plugged into used by a GUI for creating and editing Wick projects (e.g. the 2D Scene) or a player for embedding and running Wick projects (e.g. the Wick Player).",
   "main": "index.js",
   "directories": {
     "lib": "lib",

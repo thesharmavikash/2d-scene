@@ -28,4 +28,4 @@ The Wick Engine uses the in-browser version of Mocha and Chai for tests. To run 
 
 # License
 
-Wick Editor is Licensed under the GPL v3. A copy of the GPL v3 is distributed with the Wick Engine. If a copy of the license has not been provided, see <https://www.gnu.org/licenses/>.
+2D Scene is Licensed under the GPL v3. A copy of the GPL v3 is distributed with the Wick Engine. If a copy of the license has not been provided, see <https://www.gnu.org/licenses/>.

@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://editor.wickeditor.com/"><img src=".github/images/logo.svg" alt="Wick Editor" width="25%"></a>
+  <a href="https://editor.wickeditor.com/"><img src=".github/images/logo.svg" alt="2D Scene" width="25%"></a>
   <br>
 </h1>
 
@@ -18,9 +18,9 @@
     <img src="https://img.shields.io/twitter/follow/wickeditor?style=social&logo=twitter" alt="follow on Twitter"></a>
 </p>
 
-<h1>Wick Editor</h1>
+<h1>2D Scene</h1>
 
-The Wick Editor is a free and open-source tool for creating games, animations, and everything in-between. It's designed to be the most accessible tool for creating multimedia projects on the web.
+The 2D Scene is a free and open-source tool for creating games, animations, and everything in-between. It's designed to be the most accessible tool for creating multimedia projects on the web.
 
 <p align="center"><img width="100%" src=".github/images/editor.svg"></p>
 
@@ -90,12 +90,12 @@ To deploy, you'll need to have push access to this repo.
 
 ## License
 
-Wick Editor is under the GNU v3 Public License. See the [LICENSE](LICENSE.md) for more information.
+2D Scene is under the GNU v3 Public License. See the [LICENSE](LICENSE.md) for more information.
 
 ## Links
 
-* [Wick Editor Site](https://www.wickeditor.com)
-* [Wick Editor Community Forum](https://forum.wickeditor.com/)
+* [2D Scene Site](https://www.wickeditor.com)
+* [2D Scene Community Forum](https://forum.wickeditor.com/)
 * [Follow on Twitter](https://twitter.com/wickeditor)
 * [Follow on Facebook](https://www.facebook.com/wickeditor/)
 

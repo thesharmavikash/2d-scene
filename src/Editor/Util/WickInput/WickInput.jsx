@@ -1,20 +1,20 @@
 /*
  * Copyright 2020 WICKLETS LLC
  *
- * This file is part of Wick Editor.
+ * This file is part of 2D Scene.
  *
- * Wick Editor is free software: you can redistribute it and/or modify
+ * 2D Scene is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
  * (at your option) any later version.
  *
- * Wick Editor is distributed in the hope that it will be useful,
+ * 2D Scene is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  *
  * You should have received a copy of the GNU General Public License
- * along with Wick Editor.  If not, see <https://www.gnu.org/licenses/>.
+ * along with 2D Scene.  If not, see <https://www.gnu.org/licenses/>.
  */
 
 import React, { Component } from 'react';
@@ -34,7 +34,7 @@ import { isMobile } from 'react-device-detect';
 var classNames = require('classnames');
 
 /**
- * Creates an input to be used in the Wick Editor
+ * Creates an input to be used in the 2D Scene
  * prop {string} className The classname to apply to the input element
  *
  * prop {string} containerclassname The classname to apply to the container

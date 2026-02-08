@@ -1,4 +1,4 @@
-# Wick Editor Credits
+# 2D Scene Credits
 
 ## Developers + Contributors
 

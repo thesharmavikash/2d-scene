@@ -1,20 +1,20 @@
 /*
  * Copyright 2020 WICKLETS LLC
  *
- * This file is part of Wick Editor.
+ * This file is part of 2D Scene.
  *
- * Wick Editor is free software: you can redistribute it and/or modify
+ * 2D Scene is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
  * (at your option) any later version.
  *
- * Wick Editor is distributed in the hope that it will be useful,
+ * 2D Scene is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  *
  * You should have received a copy of the GNU General Public License
- * along with Wick Editor.  If not, see <https://www.gnu.org/licenses/>.
+ * along with 2D Scene.  If not, see <https://www.gnu.org/licenses/>.
  */
 
 import React, { Component, Fragment} from 'react';
@@ -70,11 +70,11 @@ class SupportUs extends Component {
       overlayClassName="support-modal-overlay">
         <div id="support-modal-interior-content">
           <div id="support-modal-title">
-            <img id="support-modal-title-img" alt="Wick Editor ghost flashy" src={flashy}></img>
-            <p id="support-modal-title-text">Wick Editor is supported by you!</p>
+            <img id="support-modal-title-img" alt="2D Scene ghost flashy" src={flashy}></img>
+            <p id="support-modal-title-text">2D Scene is supported by you!</p>
           </div>
 
-          <p id="support-modal-benefit-text">Get Merch, get featured, and help Wick Editor Grow!</p>
+          <p id="support-modal-benefit-text">Get Merch, get featured, and help 2D Scene Grow!</p>
 
           <div class="support-modal-row">
             {contentDisplay}

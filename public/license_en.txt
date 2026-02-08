@@ -1,11 +1,11 @@
 Terms And Conditions
-The Wick Editor
+The 2D Scene
 Copyright 2020 Wicklets LLC
 
 
-Wick Editor Open Source Applications Terms and Conditions
+2D Scene Open Source Applications Terms and Conditions
 
-These Wick Editor Open Source Applications Terms and Conditions ("Application Terms") are a legal agreement between you (either as an individual or on behalf of an entity) and Wicklets LLC ("Wicklets") regarding your use of Wicklets's applications, such as The Wick Editor and associated documentation ("Software"). These Application Terms apply to the executable code version of the Software. Source code for the Software is available separately and free of charge under open source software license agreements. If you do not agree to all of the terms in these Application Terms, do not download, install, use, or copy the Software.
+These 2D Scene Open Source Applications Terms and Conditions ("Application Terms") are a legal agreement between you (either as an individual or on behalf of an entity) and Wicklets LLC ("Wicklets") regarding your use of Wicklets's applications, such as The 2D Scene and associated documentation ("Software"). These Application Terms apply to the executable code version of the Software. Source code for the Software is available separately and free of charge under open source software license agreements. If you do not agree to all of the terms in these Application Terms, do not download, install, use, or copy the Software.
 
 Open Source Licenses and Notices
     The open source license for the Software is included in the "Open Source Notices" documentation that is included with the Software. That documentation also includes copies of all applicable open source licenses.
@@ -14,7 +14,7 @@ Open Source Licenses and Notices
 
 Wicklets's Logos
     The license grant included with the Software is not for Wicklets’s trademarks, which include the Software logo designs. Wicklets reserves all trademark and copyright rights in and to all Wicklets trademarks. Wicklets’s logos include, for instance, the stylized designs that include "logo" in the file title in the "logos" folder.
-    The names Wicklets, Wick Editor, WickEditor, and related Wicklets logos and Wick Editor logos and/or stylized names are trademarks of Wicklets. You agree not to display or use these trademarks in any manner without Wicklets’s prior, written permission, except as allowed by Wicklets’s Logos and Usage Policy: #.
+    The names Wicklets, 2D Scene, WickEditor, and related Wicklets logos and 2D Scene logos and/or stylized names are trademarks of Wicklets. You agree not to display or use these trademarks in any manner without Wicklets’s prior, written permission, except as allowed by Wicklets’s Logos and Usage Policy: #.
 
 Privacy
     The Software may collect personal information. If the Software does collect personal information on Wicklets’s behalf, Wicklets will process that information in accordance with the Wicklets Privacy Policy. By using this software, you agree to the terms of the Wicklets Privacy Policy. A copy of the Wicklets Privacy Policy can be found at #.
